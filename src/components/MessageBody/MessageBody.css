@@ -1,0 +1,18 @@
+.message-body {
+  position: relative;
+  max-width: 80%;
+  min-width: 8rem;
+  background-color: ivory;
+}
+
+.message-body.bs-popover-right .arrow::after {
+  border-right-color: ivory;
+}
+
+.message-body.my-message {
+  background-color: #c5fbbf;
+}
+
+.message-body.my-message.bs-popover-left .arrow::after {
+  border-left-color: #c5fbbf;
+}

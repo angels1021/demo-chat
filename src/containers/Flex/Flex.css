@@ -1,0 +1,15 @@
+.flex-grow {
+  flex: 1 0 auto;
+}
+
+.flex-shrink {
+  flex: 1 0 auto;
+}
+
+.flex-auto {
+  flex: 1 1 auto;
+}
+
+.flex-fixed {
+  flex: 0 0 auto;
+}

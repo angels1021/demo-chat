@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`api/user/reducer should return the initial state 1`] = `
+Object {
+  "avatar": "",
+  "id": "",
+  "username": "",
+}
+`;

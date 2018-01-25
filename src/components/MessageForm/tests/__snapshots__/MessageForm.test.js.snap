@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MessageForm> default should render correctly with default options 1`] = `
+<div
+  className="message-form"
+>
+  <Form
+    className="p-3"
+    onSubmit={[Function]}
+    tag="form"
+  >
+    <InputGroup
+      tag="div"
+    >
+      <textarea
+        className="form-control"
+      />
+      <div
+        className="input-group-append"
+      >
+        <Submit>
+          Send
+        </Submit>
+      </div>
+    </InputGroup>
+  </Form>
+</div>
+`;
